@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic dimana semua kolom diisi dan untuk kolom end date lebih kecil dari start date</description>
+   <name>S140018</name>
+   <tag>S140018</tag>
+   <comment></comment>
+   <testCaseGuid>c9fbefc7-5520-4733-bb1d-bb916df6829c</testCaseGuid>
+</TestCaseEntity>

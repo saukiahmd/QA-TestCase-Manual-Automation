@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account nadine amizah dimana semua kolom diisi kecuali kolom bank name</description>
+   <name>S120007</name>
+   <tag>S120007</tag>
+   <comment></comment>
+   <testCaseGuid>71d4ee66-ce2c-45cd-957d-319230d93e6e</testCaseGuid>
+</TestCaseEntity>

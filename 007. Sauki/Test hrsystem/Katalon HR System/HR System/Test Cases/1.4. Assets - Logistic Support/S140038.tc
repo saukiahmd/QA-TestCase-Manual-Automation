@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan relasi antar kolom yaitu kolom project dan task list</description>
+   <name>S140038</name>
+   <tag>S140038</tag>
+   <comment></comment>
+   <testCaseGuid>dc672f88-accc-493b-9f3c-301d36e186d4</testCaseGuid>
+</TestCaseEntity>

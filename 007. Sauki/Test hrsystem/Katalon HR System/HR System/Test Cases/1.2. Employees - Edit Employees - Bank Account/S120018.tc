@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account kurnia mega dimana semua kolom diisi dan untuk kolom bank holder name, bank name, bank account number diisi gabungan antara huruf dan angka</description>
+   <name>S120018</name>
+   <tag>S120018</tag>
+   <comment></comment>
+   <testCaseGuid>d1da500a-a784-438b-9855-9133588e320b</testCaseGuid>
+</TestCaseEntity>

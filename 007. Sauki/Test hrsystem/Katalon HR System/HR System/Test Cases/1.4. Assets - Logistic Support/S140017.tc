@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mendownload data logistic support list dengan tipe file PDF, klik tombol pdf</description>
+   <name>S140017</name>
+   <tag>S140017</tag>
+   <comment></comment>
+   <testCaseGuid>be9080cc-60d4-415b-8f41-bb0f0a77de04</testCaseGuid>
+</TestCaseEntity>

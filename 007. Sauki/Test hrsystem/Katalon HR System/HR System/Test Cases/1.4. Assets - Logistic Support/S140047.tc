@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan tombol next dibagian pagination</description>
+   <name>S140047</name>
+   <tag>S140047</tag>
+   <comment></comment>
+   <testCaseGuid>525c7496-a263-4aa5-b874-acfe13c3b435</testCaseGuid>
+</TestCaseEntity>

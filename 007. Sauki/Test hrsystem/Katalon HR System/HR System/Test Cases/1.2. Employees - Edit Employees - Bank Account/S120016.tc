@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account nadine amizah dimana semua kolom diisi dan untuk kolom bank  name, bank account number panjang karakter kurang dari 5</description>
+   <name>S120016</name>
+   <tag>S120016</tag>
+   <comment></comment>
+   <testCaseGuid>9c966819-29a4-4ac4-ab1c-a510ec5eff51</testCaseGuid>
+</TestCaseEntity>

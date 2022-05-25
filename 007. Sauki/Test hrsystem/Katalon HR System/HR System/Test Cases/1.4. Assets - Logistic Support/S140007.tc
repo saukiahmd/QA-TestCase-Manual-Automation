@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan sisa stok Laptop T10 setelah di tambah data logistic</description>
+   <name>S140007</name>
+   <tag>S140007</tag>
+   <comment></comment>
+   <testCaseGuid>023928b2-becb-4518-93c3-f31988f565e1</testCaseGuid>
+</TestCaseEntity>

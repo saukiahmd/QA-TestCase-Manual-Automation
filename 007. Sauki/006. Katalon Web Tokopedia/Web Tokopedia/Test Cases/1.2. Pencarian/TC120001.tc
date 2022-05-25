@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Berhasil menampilkan pencarian produk &quot;Sepatu&quot; dalam bentuk card view</description>
+   <name>TC120001</name>
+   <tag>TC120001</tag>
+   <comment></comment>
+   <testCaseGuid>94aff7c5-a6e4-4093-8555-6133de35ce57</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic dimana untuk kolom task list dan employee name value kosong</description>
+   <name>S140011</name>
+   <tag>S140011</tag>
+   <comment></comment>
+   <testCaseGuid>0c815d8f-3583-4355-887c-06eb03a7369e</testCaseGuid>
+</TestCaseEntity>

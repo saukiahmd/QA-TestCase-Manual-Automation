@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media kurnia mega dimana hanya kolom skype yang diisi dan tidak sesuai dengan format url</description>
+   <name>S130006</name>
+   <tag>S140006</tag>
+   <comment></comment>
+   <testCaseGuid>738e93ec-c902-4569-a31e-5669f4da386e</testCaseGuid>
+</TestCaseEntity>

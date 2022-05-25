@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account employee lima dimana hanya kolom bank branch name dan bank account type yang diisi</description>
+   <name>S120025</name>
+   <tag>S120025</tag>
+   <comment></comment>
+   <testCaseGuid>ef2f9b50-3021-4f60-bbfd-e4984d208942</testCaseGuid>
+</TestCaseEntity>

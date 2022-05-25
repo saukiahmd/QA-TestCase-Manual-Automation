@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pencarian data logistic support list dengan filter search, keyword valid</description>
+   <name>S140020</name>
+   <tag>S140020</tag>
+   <comment></comment>
+   <testCaseGuid>deabef1e-8f74-4e04-9185-a9e29509554b</testCaseGuid>
+</TestCaseEntity>

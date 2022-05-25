@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC130001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>890efaa6-4817-40f1-80bf-8e5b8068a26d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f17b4bbf-3786-4f03-8de9-828ee9a2743b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b989c470-9592-40b0-92dd-0147347f2bd0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

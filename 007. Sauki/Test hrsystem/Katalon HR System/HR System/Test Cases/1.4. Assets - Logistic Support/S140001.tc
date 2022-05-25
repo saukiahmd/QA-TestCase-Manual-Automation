@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Akses halaman Assets - Logistic Support</description>
+   <name>S140001</name>
+   <tag>S140001</tag>
+   <comment></comment>
+   <testCaseGuid>b770b7f9-8381-4464-a330-c421bbfdc686</testCaseGuid>
+</TestCaseEntity>

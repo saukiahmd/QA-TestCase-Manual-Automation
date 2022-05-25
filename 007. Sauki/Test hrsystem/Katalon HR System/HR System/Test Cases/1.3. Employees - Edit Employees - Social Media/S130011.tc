@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media kurnia mega dimana hanya kolom twitter yang diisi dan diisi dengan nomor</description>
+   <name>S130011</name>
+   <tag>S140011</tag>
+   <comment></comment>
+   <testCaseGuid>e5645b24-cc19-4062-aed4-18d12905e074</testCaseGuid>
+</TestCaseEntity>

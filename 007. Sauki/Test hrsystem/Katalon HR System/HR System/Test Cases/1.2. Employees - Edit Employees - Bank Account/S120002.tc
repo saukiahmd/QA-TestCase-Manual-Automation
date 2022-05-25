@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account dimas pratama dimana semua kolom diisi</description>
+   <name>S120002</name>
+   <tag>S120002</tag>
+   <comment></comment>
+   <testCaseGuid>e2f14835-fe2d-4f95-a518-e586ffbe5d6e</testCaseGuid>
+</TestCaseEntity>

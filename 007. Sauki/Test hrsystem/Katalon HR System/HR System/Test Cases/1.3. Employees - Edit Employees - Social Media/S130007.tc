@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media kurnia mega dimana semua kolom diisi dan setiap kolom ditambahkan spesial character setelah &quot;.com&quot;</description>
+   <name>S130007</name>
+   <tag>S140007</tag>
+   <comment></comment>
+   <testCaseGuid>9d1d14de-d756-4443-9e45-61d40b82e66f</testCaseGuid>
+</TestCaseEntity>

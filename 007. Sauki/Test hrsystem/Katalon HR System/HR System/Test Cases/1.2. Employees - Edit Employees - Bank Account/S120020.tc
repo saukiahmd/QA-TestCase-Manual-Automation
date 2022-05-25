@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account reyhan ricky dimana semua kolom di kosongkan</description>
+   <name>S120020</name>
+   <tag>S120020</tag>
+   <comment></comment>
+   <testCaseGuid>c77da1d2-043e-41b9-86dc-075c9b82638e</testCaseGuid>
+</TestCaseEntity>

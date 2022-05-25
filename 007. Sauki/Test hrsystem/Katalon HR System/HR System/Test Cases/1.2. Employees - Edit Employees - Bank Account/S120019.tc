@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account natasya wilona dimana semua kolom diisi dan untuk kolom bank holder name, bank name, bank account number diisi gabungan antara huruf dan spesial character</description>
+   <name>S120019</name>
+   <tag>S120019</tag>
+   <comment></comment>
+   <testCaseGuid>b99aef46-bf50-4511-826d-cbf30aef9b38</testCaseGuid>
+</TestCaseEntity>

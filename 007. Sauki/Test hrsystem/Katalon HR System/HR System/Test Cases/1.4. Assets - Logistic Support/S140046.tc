@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data pada salah satu data dimana hanya kolom project, logistic list, task list, assign user, assign qty dan refund qty</description>
+   <name>S140046</name>
+   <tag>S140046</tag>
+   <comment></comment>
+   <testCaseGuid>8bc4c5bc-43bb-4e87-9a55-4036f1db2f24</testCaseGuid>
+</TestCaseEntity>

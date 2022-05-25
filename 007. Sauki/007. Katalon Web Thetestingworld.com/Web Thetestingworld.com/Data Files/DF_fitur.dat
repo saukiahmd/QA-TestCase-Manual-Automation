@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DF_fitur</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>edbe91bf-3021-4b2b-8633-5876b7fdae66</dataFileGUID>
+   <dataSourceUrl>C:\Users\sauki\xa-bootcamp-batch-283-qa-teknologi\007. Sauki\007. Katalon Web Thetestingworld.com\Data Source\DF_fitur.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>regis</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

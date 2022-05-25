@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan relasi antar kolom yaitu kolom task list dan assign user</description>
+   <name>S140039</name>
+   <tag>S140039</tag>
+   <comment></comment>
+   <testCaseGuid>aed5b2d9-ded6-40e8-82c2-39fa908a4562</testCaseGuid>
+</TestCaseEntity>

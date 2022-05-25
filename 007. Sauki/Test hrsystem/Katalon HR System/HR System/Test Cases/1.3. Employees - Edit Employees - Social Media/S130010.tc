@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media kurnia mega dimana hanya kolom facebook diisi dan diisi dengan angka</description>
+   <name>S130010</name>
+   <tag>S140010</tag>
+   <comment></comment>
+   <testCaseGuid>d438eb46-ab5d-4366-bc88-ff21c54175c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic support dimana semua kolom diisi</description>
+   <name>S140002</name>
+   <tag>S140002</tag>
+   <comment></comment>
+   <testCaseGuid>c7ceedd6-0f03-4353-8f19-3c169dce0eea</testCaseGuid>
+</TestCaseEntity>

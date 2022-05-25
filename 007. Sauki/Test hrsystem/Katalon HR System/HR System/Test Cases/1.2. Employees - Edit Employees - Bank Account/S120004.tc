@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account natasya atsyifa dimana kolom branch name di kosongkan</description>
+   <name>S120004</name>
+   <tag>S120004</tag>
+   <comment></comment>
+   <testCaseGuid>c8577245-394f-408c-97a1-530b86005648</testCaseGuid>
+</TestCaseEntity>

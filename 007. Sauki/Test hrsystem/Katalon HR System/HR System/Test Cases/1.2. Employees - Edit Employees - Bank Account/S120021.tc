@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account reyhan ricky dimana semua kolom panjang karakter lebih dari 25 karakter</description>
+   <name>S120021</name>
+   <tag>S120021</tag>
+   <comment></comment>
+   <testCaseGuid>eec7e579-1a6e-437e-9b2d-a3a4b0935de5</testCaseGuid>
+</TestCaseEntity>

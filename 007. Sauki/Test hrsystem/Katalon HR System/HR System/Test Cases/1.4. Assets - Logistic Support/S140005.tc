@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic support dimana hanya kolom logistic list, project, task list, employee name, end date dan assgin qty</description>
+   <name>S140005</name>
+   <tag>S140005</tag>
+   <comment></comment>
+   <testCaseGuid>f89b6c29-14f1-453a-9518-01cce408aa15</testCaseGuid>
+</TestCaseEntity>

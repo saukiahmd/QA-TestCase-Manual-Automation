@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting descending untuk kolom assets</description>
+   <name>S140022</name>
+   <tag>S140022</tag>
+   <comment></comment>
+   <testCaseGuid>febf96ad-ce0f-4303-8bf5-0d87f0a95ef6</testCaseGuid>
+</TestCaseEntity>

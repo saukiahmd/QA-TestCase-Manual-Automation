@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting ascending untuk kolom task name</description>
+   <name>S140025</name>
+   <tag>S140025</tag>
+   <comment></comment>
+   <testCaseGuid>104089ad-841a-4063-8b9c-5aaf35eeb1f9</testCaseGuid>
+</TestCaseEntity>

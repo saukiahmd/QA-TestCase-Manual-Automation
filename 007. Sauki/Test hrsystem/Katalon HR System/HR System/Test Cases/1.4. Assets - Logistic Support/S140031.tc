@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting ascending untuk kolom back date</description>
+   <name>S140031</name>
+   <tag>S140031</tag>
+   <comment></comment>
+   <testCaseGuid>cb458ddb-1736-40e9-a8a6-19b5b0834402</testCaseGuid>
+</TestCaseEntity>

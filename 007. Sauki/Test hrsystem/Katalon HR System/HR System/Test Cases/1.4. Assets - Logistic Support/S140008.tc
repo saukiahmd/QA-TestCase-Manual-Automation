@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic dimana semua kolom diisi dan untuk kolom assign qty diisi dengan tipe data huruf dan spesial character</description>
+   <name>S140008</name>
+   <tag>S140008</tag>
+   <comment></comment>
+   <testCaseGuid>ccdfdaec-0dca-48dc-98d3-a7b11f5bbde5</testCaseGuid>
+</TestCaseEntity>

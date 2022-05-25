@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting descending untuk kolom back qty</description>
+   <name>S140035</name>
+   <tag>S140035</tag>
+   <comment></comment>
+   <testCaseGuid>a6dfa58a-0ae9-4408-8ff3-5d53a28e01b6</testCaseGuid>
+</TestCaseEntity>

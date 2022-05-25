@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencopy data logistic support list dengan klik tombol &quot;copy&quot;</description>
+   <name>S140014</name>
+   <tag>S140014</tag>
+   <comment></comment>
+   <testCaseGuid>ca2ad3fd-822f-49f3-bb1d-50a33c45731d</testCaseGuid>
+</TestCaseEntity>

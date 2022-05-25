@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data logistic dimana semua kolom diisi lalu klik &quot;cancel&quot;</description>
+   <name>S140013</name>
+   <tag>S140013</tag>
+   <comment></comment>
+   <testCaseGuid>4fa344c8-7e13-4171-9e5b-fafdb48288b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Halaman Home WEB Tokopedia</description>
+   <name>TC110001</name>
+   <tag>TC110001</tag>
+   <comment></comment>
+   <testCaseGuid>728b29ea-a9f8-4ddf-84ec-fdccbab258a0</testCaseGuid>
+</TestCaseEntity>

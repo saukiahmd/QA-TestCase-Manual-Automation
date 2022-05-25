@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account employee lima dimana hanya kolom bank name yang diisi</description>
+   <name>S120023</name>
+   <tag>S120023</tag>
+   <comment></comment>
+   <testCaseGuid>d916730b-9f0c-4704-8768-007ada35cf12</testCaseGuid>
+</TestCaseEntity>

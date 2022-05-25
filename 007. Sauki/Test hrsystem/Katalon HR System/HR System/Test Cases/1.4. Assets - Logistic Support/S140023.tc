@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting ascending untuk kolom assign user</description>
+   <name>S140023</name>
+   <tag>S140023</tag>
+   <comment></comment>
+   <testCaseGuid>cfe10ec5-feb9-451f-ac99-6cb28daee987</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan tombol 2 dibagian pagination</description>
+   <name>S140049</name>
+   <tag>S140049</tag>
+   <comment></comment>
+   <testCaseGuid>8c19b4ed-6d69-4892-a197-a6927124a80e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media kurnia mega dimana hanya kolom google + yang diisi dan tidak sesuai dengan format url</description>
+   <name>S130005</name>
+   <tag>S140005</tag>
+   <comment></comment>
+   <testCaseGuid>fa2e83e9-5666-4c02-a6dd-a8aa11401c54</testCaseGuid>
+</TestCaseEntity>
